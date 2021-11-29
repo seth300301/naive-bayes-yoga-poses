@@ -9,6 +9,6 @@ Four main questions were answered in our report which relate to i) multiclass cl
 All functions should be run right from the notebook file in order from top to bottom. The functions can be extended to other training and testing sets.
 
 ## Notes
-- for Q2, we plotted graphs of the specific 5 attributes: wristR, kneeL, elbowL, head, kneeR to show some of the cases.
-- for Q3 we chose 10 as our arbitrary kernel value.
-- for Q4, we used random partitions to split the training dataset, so you may not get exactly the same results as us but perhaps similar.
+- For Q2, we plotted graphs of the specific 5 attributes: wristR, kneeL, elbowL, head, kneeR to show some of the cases.
+- For Q3 we chose 10 as our arbitrary kernel value.
+- For Q4, we used random partitions to split the training dataset, so you may not get exactly the same results as us but perhaps similar.
